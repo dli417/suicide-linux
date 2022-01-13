@@ -1,6 +1,8 @@
 Suicide Linux
 =============
 
+Forked from [tiagoad/suicide-linux](https://github.com/tiagoad/suicide-linux), with updated suicide linux bash script v1.1 from [SourceForge](http://sourceforge.net/projects/suicide-linux/).
+
 [Suicide Linux](https://qntm.org/suicide) is now available from the comfort of Docker!
 
 With a single command, an instance of _Suicide Stretch_ will be downloaded and booted up, for all your suicidal needs.
