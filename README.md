@@ -20,4 +20,4 @@ With a single command, an instance of _Suicide Stretch_ will be downloaded and b
 Running
 -------
 
-    docker run --rm -it -t tiagoad/suicide-linux
+    docker run --rm -it -t dli417/suicide-linux
